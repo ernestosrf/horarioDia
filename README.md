@@ -1,5 +1,5 @@
 # horarioDia
-Site que informa visualmente o momento do dia em que o usuário o está acessando.
+Site que informa visualmente o momento do dia em que o usuário o está acessando. Você pode conferi-lo em: https://ernestosrf.github.io/horarioDia/
 
 O Script pega o horário do sistema no momento em que o usuário acessa o site, então é informado aquele horário e a paleta de cores/a imagem são alteradas de acordo com aquele momento do dia.
 
